@@ -1,0 +1,7 @@
+Nombre: Federico
+Apellido: Herbosa 
+Altura: 165
+Edad: 32
+Peso: 62
+colorPreferido: Amarillo
+dni: 36908582
